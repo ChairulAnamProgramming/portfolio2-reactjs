@@ -1,0 +1,13 @@
+
+@media only screen and (min-width: 576px) {
+  .container-top{
+    height: 85vh;
+  }
+}
+
+.container-top{
+  height: 50vh;
+  background-image: linear-gradient(to right, #648AE2 , #C2F6FB);
+}
+
+

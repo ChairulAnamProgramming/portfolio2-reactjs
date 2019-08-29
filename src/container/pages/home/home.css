@@ -1,0 +1,27 @@
+.rounded-home{
+    border-radius: 10px!important;
+}
+
+.spacing-100{
+    letter-spacing: 5px;
+}
+
+
+.bg-footer{
+    background: #000;
+}
+
+@media only screen and (max-width: 300px) {
+    h1{
+      font-size: 12px!important;
+    }
+    h2{
+        font-size: 11px!important;
+    }
+    h3{
+        font-size: 10px!important;
+    }
+    p{
+        font-size: 8px!important;
+    }
+  }
